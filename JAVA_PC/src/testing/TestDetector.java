@@ -1,12 +1,6 @@
 package testing;
 
-import java.awt.Color;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.UUID;
-
 import Utils.Logg;
-import engine.logic.detection.DAGCycleDetection;
 import engine.logic.detection.Scan;
 import engine.logic.model.TerritoryMap;
 import engine.logic.model.User;
